@@ -1,0 +1,14 @@
+
+
+>>>>>>>>>> Day1: 30/7 <<<<<<<<<
+
+* seft-study: java programing
+	
+	* JAVA IOStream:
+		- FileOutPutStream: if out stream file does not exist, java create file automatically
+
+	* JAVA Directory and file:
+		- [boolean] mkdir(): make dir with single path (ex: new File("dir1") --> mkdir())
+		- [boolean] mkdirs(): make dir with complicate path (ex: "dir/dir1/dir1.1"); 
+
+		+ note: distinguish /dir_name with dir_name(root directory of project)
