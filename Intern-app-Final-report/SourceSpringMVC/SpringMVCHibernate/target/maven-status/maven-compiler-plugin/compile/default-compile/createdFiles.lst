@@ -1,0 +1,4 @@
+stackjava\com\springmvchibernate\controller\CustomerController.class
+stackjava\com\springmvchibernate\service\CustomerService.class
+stackjava\com\springmvchibernate\entities\Customer.class
+stackjava\com\springmvchibernate\dao\CustomerDAO.class
